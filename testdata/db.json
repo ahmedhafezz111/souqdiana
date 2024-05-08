@@ -1,0 +1,78 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "product_name": "house of hauteville chess",
+      "title": "chess",
+      "image_url": "https://i.imgur.com/yXkDz1Q.jpg",
+      "start_price": 250,
+      "end_date": "2024-05-31T23:59:59Z",
+      "bids": [
+
+      ]
+    },
+    {
+      "id": "2",
+      "product_name": "antique telephone",
+      "title": "telephone",
+      "image_url": "https://i.imgur.com/Hu99T3C.jpg",
+      "start_price": 1000,
+      "end_date": "2024-06-03T23:59:59Z",
+      "bids": []
+    },
+    {
+      "id": "3",
+      "product_name": "antique compass",
+      "title": "compass",
+      "image_url": "https://i.imgur.com/nPCmQY9.jpg",
+      "start_price": 500,
+      "end_date": "2024-06-06T23:59:59Z",
+      "bids": []
+    },
+    {
+      "id": "4",
+      "product_name": "antique pocket clock",
+      "title": "clock",
+      "image_url": "https://i.imgur.com/nPCmQY9.jpg",
+      "start_price": 1200,
+      "end_date": "2024-06-09T23:59:59Z",
+      "bids": []
+    },
+    {
+      "id": "5",
+      "product_name": "antique sand clock",
+      "title": "sand clock",
+      "image_url": "https://i.imgur.com/tJsxfiY.jpg",
+      "start_price": 3500,
+      "end_date": "2024-06-12T23:59:59Z",
+      "bids": []
+    },
+    {
+      "id": "6",
+      "product_name": "old egyptian pound",
+      "title": "old money",
+      "image_url": "https://i.imgur.com/Ff1CKVN.jpg",
+      "start_price": 50,
+      "end_date": "2024-06-15T23:59:59Z",
+      "bids": []
+    },
+    {
+      "id": "7",
+      "product_name": "Premium Antique Chess Board",
+      "title": "chess",
+      "image_url": "https://i.imgur.com/2vCXqOR.jpg",
+      "start_price": 500,
+      "end_date": "2024-06-18T23:59:59Z",
+      "bids": []
+    },
+    {
+      "id": "8603",
+      "product_name": "LCS Smith",
+      "title": "writting",
+      "image_url": "https://i.imgur.com/TwxiR4K.jpg",
+      "start_price": 360,
+      "end_date": "2024-05-07T18:05",
+      "bids": []
+    }
+  ]
+}
